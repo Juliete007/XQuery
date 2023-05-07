@@ -1,0 +1,14 @@
+.Titulo{
+    text-align: center;
+    background-color: darkseagreen;
+    font-size: 20px;
+    border: 1px solid black;
+    padding-top: 0.1%;
+    padding-bottom: 0.1%;
+}
+
+.Enlaces{
+    margin-top: 1%;
+    margin-left: 1%;
+    font-size: 20px;
+}
