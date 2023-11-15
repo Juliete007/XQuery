@@ -7,7 +7,7 @@ Este proyecto es una aplicación web que utiliza XQuery para realizar consultas 
 Asegúrate de tener instalado lo siguiente antes de comenzar:
 
 - Navegador web moderno
-- [Servidor web](#configuración-del-servidor-web) (por ejemplo, Apache) para ejecutar XQuery
+- [Servidor web] (por ejemplo, Apache) para ejecutar XQuery
 
 ## Configuración del Servidor Web
 
